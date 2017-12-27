@@ -16,16 +16,16 @@
         <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>x_snc_milktea</source>
-        <store_correlation_id/>
+        <store_correlation_id>REPOAPP0000001608</store_correlation_id>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-12-27 22:05:57</sys_created_on>
         <sys_id>89c883e96f1b4b00842b0d9c5d3ee49e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-12-27 22:05:57</sys_updated_on>
+        <sys_updated_on>2017-12-27 22:08:08</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role display_value="x_snc_milktea.user" name="x_snc_milktea.user">45c8c32d6f1b4b00842b0d9c5d3ee4e1</user_role>
